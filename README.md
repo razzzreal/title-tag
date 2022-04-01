@@ -1,8 +1,11 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title> welcome home page </title> <!-- place processing information and meta data here -->
+<title> welcome home page </title> 
 </head>
-<body>    <!--place displayable content here -->
+<body>  
+  <h1> raj pratik</h1>
+  <h2> raj pratik</h1>
+  
 </body>
 </html>
